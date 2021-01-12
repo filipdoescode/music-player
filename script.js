@@ -14,23 +14,23 @@ const nextBtn = document.querySelector("#forw");
 const songs = [
   {
     name: "music1",
-    displayName: "Uprising",
-    artist: "Muse",
+    displayName: "Moonlight sonata",
+    artist: "Beethoven",
   },
   {
     name: "music2",
-    displayName: "Hey You",
-    artist: "Pink Floyd",
+    displayName: "Nocturne No.2 in E-flat Major",
+    artist: "Frederic Chopin",
   },
   {
     name: "music3",
-    displayName: "Comfortably Numb",
-    artist: "Pink Floyd",
+    displayName: "Nocturne No.1 in B-Flat Minor: Larghetto",
+    artist: "Frederic Chopin",
   },
   {
     name: "music4",
-    displayName: "High Hopes",
-    artist: "Pink Floyd",
+    displayName: "Nocturne Op.72 No.1",
+    artist: "Frederic Chopin",
   },
 ];
 
